@@ -14,3 +14,4 @@ git config --global -e
 git remote rm origin
 Теперь подключаемся к выбранному репозиторию
 git remote add origin https://github.com/jeromwork/test2.git
+https://agladky.ru/blog/git-cheat-sheet/
